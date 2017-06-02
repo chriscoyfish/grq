@@ -30,11 +30,11 @@ Unit tests to follow...
 
 ## Installation
 
-1. Download the necessary files
+1. Download the necessary files (possibly need to run as root with "sudo")
 
 ```python
 
-git clone http://<here>
+git clone https://github.com/chriscoyfish/grq.git
 cd grq
 pip install -r requirements.txt
 
@@ -47,7 +47,7 @@ Twitter API project. See https://apps.twitter.com/ for more details.
 
 ```python
 
-python main.py <keyword>
+python main.py yoga covfefe python
 
 ```
 
